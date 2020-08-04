@@ -51,7 +51,12 @@ position = Vector2( 2213, 538 )
 [node name="Enemy3" parent="." instance=ExtResource( 3 )]
 position = Vector2( 2938, 537 )
 
+[node name="Coin2" parent="." instance=ExtResource( 5 )]
+position = Vector2( 771, 309 )
+
 [node name="Coin" parent="." instance=ExtResource( 5 )]
-position = Vector2( 646, 320 )
+position = Vector2( 684, 316 )
 
 [editable path="Player"]
+
+[editable path="Coin"]
